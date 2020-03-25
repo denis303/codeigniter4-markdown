@@ -1,0 +1,12 @@
+{
+    "name": "denis303/codeigniter4-markdown",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Denis303\\Markdown\\" : ""
+        }
+    }
+    "require": {
+        "michelf/php-markdown": "^1.8"
+    }
+}
