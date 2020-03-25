@@ -5,7 +5,7 @@
         "psr-4": {
             "Denis303\\Markdown\\" : ""
         }
-    }
+    },
     "require": {
         "michelf/php-markdown": "^1.8"
     }
